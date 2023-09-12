@@ -4,7 +4,7 @@ A student passionate about new technologies
 
 
 <ul>
-<li> 🔭 I'm currently working on me </li> 
+<li> 🔭 I'm currently working on </li> 
 <li> 🌱 I'm currently learning JavaScript</li>
 <li> 👯 I am looking for a cooperative training course for 2023-24 </li>
 <li> ⚙️ All of my projects are available <a href="https://github.com/zhangfranck">here</a></li>
@@ -23,8 +23,8 @@ A student passionate about new technologies
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangfranck&hide_progress=none)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maissack&hide_progress=none)
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangfranck&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maissack&show_icons=true&theme=merko)
