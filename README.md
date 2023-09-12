@@ -4,13 +4,11 @@ A student passionate about new technologies
 
 
 <ul>
-<li> 🔭 I'm currently working on </li> 
-<li> 🌱 I'm currently learning </li>
-<li> 👯 I'm looking to collaborate on </li>
-<li> All of my projects are available <a href="https://github.com/zhangfranck">here</a></li>
+<li> 🔭 I'm currently working on me </li> 
+<li> 🌱 I'm currently learning JavaScript</li>
+<li> 👯 I am looking for a cooperative training course for 2023-24 </li>
+<li> ⚙️ All of my projects are available <a href="https://github.com/zhangfranck">here</a></li>
 <li> 📫 How to reach me franckzhangpro@gmail.com </li>
-
-
 </ul>
 
 ## **Get in touch** <br>
