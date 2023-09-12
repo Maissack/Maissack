@@ -1,11 +1,10 @@
 
-# Hello there 👋, I'm Franck ZHANG
+# Hi 👋, I'm Franck 
 
 <ul>
 <li> 🔭 I'm currently working on me </li> 
 <li> 🌱 I'm currently learning JavaScript</li>
 <li> 👯 I am looking for a cooperative training course for 2023-24 </li>
-<li> ⚙️ All of my projects are available <a href="https://github.com/zhangfranck">here</a></li>
 <li> 📫 How to reach me franckzhangpro@gmail.com </li>
 </ul>
 
