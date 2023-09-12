@@ -16,4 +16,6 @@ Linkedin, Instagram
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,js,php)](https://skillicons.dev)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangfranck&hide_progress=none)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangfranck&show_icons=true&theme=merko)
