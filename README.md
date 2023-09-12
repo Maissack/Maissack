@@ -1,7 +1,5 @@
 
 # Hello there 👋, I'm Franck ZHANG
-A student passionate about new technologies
-
 
 <ul>
 <li> 🔭 I'm currently working on me </li> 
