@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm Franck 
+# Salut 👋, c'est Franck 
 
 <ul>
 <li> 🔭 Je suis en train de travailler sur l'amélioration de mon portfolio</li> 
@@ -8,14 +8,14 @@
 <li> 📫 Contactez-moi franckzhangpro@gmail.com </li>
 </ul>
 
-## **Get in touch** <br>
+## **Contactez-moi** <br>
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/franckzhang.fr/) 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/MaissackHere)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/franck-zhang-iim/)
 
 
 
-## **Languages and Tools** <br>
+## **Hardskills** <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,js,php,figma)](https://skillicons.dev)
 
 <br>
