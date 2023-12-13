@@ -3,7 +3,7 @@
 
 <ul>
 <li> 🔭 Je suis en train de travailler sur l'amélioration de mon portfolio</li> 
-<li> 🌱 I'm currently learning JavaScript</li>
+<li> 🌱 Je suis en train d'apprendre à utiliser Symfony</li>
 <li> 👯 I am looking for a cooperative training course for 2023-24 </li>
 <li> 📫 How to reach me franckzhangpro@gmail.com </li>
 </ul>
