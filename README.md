@@ -9,7 +9,6 @@
 </ul>
 
 ## **Contactez-moi** <br>
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/franckzhang.fr/) 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/MaissackHere)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/franck-zhang-iim/)
 
@@ -24,4 +23,4 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maissack&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maissack&show_icons=true&theme=merko)
