@@ -2,7 +2,7 @@
 # Hi 👋, I'm Franck 
 
 <ul>
-<li> 🔭 I'm currently working on me </li> 
+<li> 🔭 Je suis en train de travailler sur l'amélioration de mon portfolio</li> 
 <li> 🌱 I'm currently learning JavaScript</li>
 <li> 👯 I am looking for a cooperative training course for 2023-24 </li>
 <li> 📫 How to reach me franckzhangpro@gmail.com </li>
