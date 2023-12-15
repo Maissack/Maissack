@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Franck ZHANG, a passionate Developper Full Stack from Paris. Welcome to my GitHub profile!
+I'm [Franck ZHANG](https://franckzhang.com/), a passionate Developper Full Stack from Paris. Welcome to my GitHub profile!
 
 ## About Me ℹ️
 
@@ -8,13 +8,15 @@ My journey in the world of development has been an exciting exploration of new t
 
 ## Skills 🚀
 
-- **Programming Languages:** [![My Skills](https://skillicons.dev/icons?i=html,css,python,js,php,figma)](https://skillicons.dev)
-  - HTML, CSS, Python, JavaScript, PHP
+- **Programming Languages:** 
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,js,php,figma)](https://skillicons.dev)
 
-- **Technologies & Tools:** 
-  - ![Vue.js](https://skillicons.dev/icon/vue-dot-js)
-  - ![Symfony](https://skillicons.dev/icon/symfony)
-  - ![Visual Studio Code](https://skillicons.dev/icon/visual-studio-code)
+- **Technologies & Tools:** 🛠️
+
+- Vue.js
+- Symfony
+- Visual Studio Code
+
 
 ## Projects 🛠️
 
@@ -31,7 +33,8 @@ I actively contribute to open source projects and believe in the power of collab
 
 ## Connect with Me 🌐
 
-- **LinkedIn:** (https://www.linkedin.com/in/franck-zhang-iim/)
-- **Personal Website/Blog:** (https://franckzhang.com/)
+- **LinkedIn:** [franck-zhang-iim](https://www.linkedin.com/in/franck-zhang-iim/)
+- **Portfolio:** [franckzhang.com](https://franckzhang.com/)
+
 
 Let's connect and collaborate on exciting projects together! 😊
