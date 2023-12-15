@@ -1,26 +1,37 @@
+# Hi there! 👋
 
-# Salut 👋, c'est Franck 
+I'm Franck ZHANG, a passionate Developper Full Stack from Paris. Welcome to my GitHub profile!
 
-<ul>
-<li> 🔭 Je suis en train de travailler sur l'amélioration de mon portfolio</li> 
-<li> 🌱 Je suis en train d'apprendre à utiliser Symfony</li>
-<li> 👯 Je recherche une alternance en tant que Développeur Full Stack pour Septembre 2024.</li>
-<li> 📫 Contactez-moi franckzhangpro@gmail.com </li>
-</ul>
+## About Me ℹ️
 
-## **Contactez-moi** <br>
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/MaissackHere)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/franck-zhang-iim/)
+My journey in the world of development has been an exciting exploration of new technologies, collaborative projects, and continuous learning. I've had the opportunity to build a social network, which has significantly contributed to my growth and passion for full stack devlopment.
 
+## Skills 🚀
 
+- **Programming Languages:** [![My Skills](https://skillicons.dev/icons?i=html,css,python,js,php,figma)](https://skillicons.dev)
+  - HTML, CSS, Python, JavaScript, PHP
 
-## **Hardskills** <br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,js,php,figma)](https://skillicons.dev)
+- **Technologies & Tools:** 
+  - ![Vue.js](https://skillicons.dev/icon/vue-dot-js)
+  - ![Symfony](https://skillicons.dev/icon/symfony)
+  - ![Visual Studio Code](https://skillicons.dev/icon/visual-studio-code)
 
-<br>
+## Projects 🛠️
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maissack&hide_progress=none)
+Here are a few highlighted projects I've worked on:
 
-<br>
+- [BridgeConnect](https://github.com/Maissack/bridgeconnect): a microblogging social network inspired by platforms like Twitter or Mastodon, incorporating specific features that encourage mindful usage.
+- [Mongoo](https://github.com/Maissack/mongoo): Complete redesign of the website of the company Mongoo which manufactures customized salads
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maissack&show_icons=true&theme=merko)
+Feel free to explore my repositories for more projects!
+
+## Contributions 🌟
+
+I actively contribute to open source projects and believe in the power of collaboration. If you have an interesting project or need help with one, I'd be happy to contribute or assist in any way I can.
+
+## Connect with Me 🌐
+
+- **LinkedIn:** (https://www.linkedin.com/in/franck-zhang-iim/)
+- **Personal Website/Blog:** (https://franckzhang.com/)
+
+Let's connect and collaborate on exciting projects together! 😊
