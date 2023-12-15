@@ -12,17 +12,7 @@ My journey in the world of development has been an exciting exploration of new t
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,scss,python,js,php,sql)](https://skillicons.dev)
 
 - **Technologies & Tools:** <br>
-<img src="https://skillicons.dev/icons?i=vscode" alt="VSCode">
-<img src="https://skillicons.dev/icons?i=git" alt="Git">
-<img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress">
-<img src="https://skillicons.dev/icons?i=ps" alt="Adobe Photoshop">
-<img src="https://skillicons.dev/icons?i=figma" alt="Figma">
-<img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD">
-<img src="https://skillicons.dev/icons?i=symfony" alt="Symfony">
-<img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow">
-<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
-<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap">
-
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,wordpress,ps,figma,xd,symfony,stackoverflow,mysql,bootstrap)](https://skillicons.dev)
 
 ## Projects 🛠️
 
