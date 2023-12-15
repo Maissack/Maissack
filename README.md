@@ -1,6 +1,6 @@
-# Hi there! 👋 Welcome to my GitHub profile!
+# Hi there! 👋 
 
-I'm [Franck ZHANG](https://franckzhang.com/), a passionate Developper Full Stack from Paris.
+I'm [Franck ZHANG](https://franckzhang.com/), a passionate Developper Full Stack from Paris. Welcome to my GitHub profile!
 
 ## About Me ℹ️
 
@@ -9,10 +9,20 @@ My journey in the world of development has been an exciting exploration of new t
 ## Skills 🚀
 
 - **Programming Languages:** <br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,scss,python,js,php,sql)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,scss,python,js,php,sql)](https://skillicons.dev)
 
 - **Technologies & Tools:** <br>
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,wordpress,ps,figma,xd,symfony,stackoverflow,mysql,bootstrap)]
+<img src="https://skillicons.dev/icons?i=vscode" alt="VSCode">
+<img src="https://skillicons.dev/icons?i=git" alt="Git">
+<img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress">
+<img src="https://skillicons.dev/icons?i=ps" alt="Adobe Photoshop">
+<img src="https://skillicons.dev/icons?i=figma" alt="Figma">
+<img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD">
+<img src="https://skillicons.dev/icons?i=symfony" alt="Symfony">
+<img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow">
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
+<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap">
+
 
 ## Projects 🛠️
 
