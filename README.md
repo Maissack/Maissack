@@ -8,15 +8,11 @@ My journey in the world of development has been an exciting exploration of new t
 
 ## Skills 🚀
 
-- **Programming Languages:** 
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,js,php,figma)](https://skillicons.dev)
+- **Programming Languages:** <br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,scss,python,js,php,sql)](https://skillicons.dev)
 
-- **Technologies & Tools:** 🛠️
-
-- Vue.js
-- Symfony
-- Visual Studio Code
-
+- **Technologies & Tools:** 🛠️ <br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,wordpress,ps,figma,xd,symfony,stackoverflow,mysql,bootstrap)](https://skillicons.dev)
 
 ## Projects 🛠️
 
@@ -36,5 +32,5 @@ I actively contribute to open source projects and believe in the power of collab
 - **LinkedIn:** [franck-zhang-iim](https://www.linkedin.com/in/franck-zhang-iim/)
 - **Portfolio:** [franckzhang.com](https://franckzhang.com/)
 
-
+<br>
 Let's connect and collaborate on exciting projects together! 😊
