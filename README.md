@@ -18,7 +18,8 @@ My journey in the world of development has been an exciting exploration of new t
 
 Here are a few highlighted projects I've worked on:
 
-- [BridgeConnect](https://github.com/Maissack/bridgeconnect): a microblogging social network inspired by platforms like Twitter or Mastodon, incorporating specific features that encourage mindful usage.
+- [HomePod mini](https://maissack.github.io/homepod_mini/): Amateur copy of Apple’s HomePod mini page
+- [BridgeConnect](https://github.com/Maissack/bridgeconnect): Microblogging social network inspired by platforms like Twitter or Mastodon, incorporating specific features that encourage mindful usage.
 - [The Conquest of Kingdoms](https://maissack.github.io/conquete_royaume/): This project aims to optimize and finalize a board game initially designed during the integration week titled "Board Game"
 - [Mongoo](https://github.com/Maissack/mongoo): Complete redesign of the website of the company Mongoo which manufactures customized salads
 
