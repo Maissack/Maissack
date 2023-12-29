@@ -9,7 +9,7 @@ My journey in the world of development has been an exciting exploration of new t
 ## Skills 🚀
 
 - **Programming Languages:** <br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,scss,python,js,php,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,python,js,php,sql)](https://skillicons.dev)
 
 - **Technologies & Tools:** <br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,wordpress,ps,figma,xd,symfony,stackoverflow,mysql,bootstrap)](https://skillicons.dev)
@@ -17,7 +17,7 @@ My journey in the world of development has been an exciting exploration of new t
 ## Projects 🛠️
 
 Here are a few highlighted projects I've worked on:
-
+- [Achaka Conseils](https://10.achakaconseils.com/?lang=en): Founded by Charlène KARSTEN, ACHAKA CONSEILS supports you in the field of industrial property. Complete creation of the website and the graphic charter.
 - [HomePod mini](https://maissack.github.io/homepod_mini/): Amateur copy of Apple’s HomePod mini page
 - [BridgeConnect](https://github.com/Maissack/bridgeconnect): Microblogging social network inspired by platforms like Twitter or Mastodon, incorporating specific features that encourage mindful usage.
 - [The Conquest of Kingdoms](https://maissack.github.io/conquete_royaume/): This project aims to optimize and finalize a board game initially designed during the integration week titled "Board Game"
