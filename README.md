@@ -17,11 +17,11 @@ My journey in the world of development has been an exciting exploration of new t
 ## Projects 🛠️
 
 Here are a few highlighted projects I've worked on:
-- [Achaka Conseils](https://10.achakaconseils.com/?lang=en): Founded by Charlène KARSTEN, ACHAKA CONSEILS supports you in the field of industrial property. Complete creation of the website and the graphic charter.
-- [HomePod mini](https://maissack.github.io/homepod_mini/): Amateur copy of Apple’s HomePod mini page
-- [BridgeConnect](https://github.com/Maissack/bridgeconnect): Microblogging social network inspired by platforms like Twitter or Mastodon, incorporating specific features that encourage mindful usage.
-- [The Conquest of Kingdoms](https://maissack.github.io/conquete_royaume/): This project aims to optimize and finalize a board game initially designed during the integration week titled "Board Game"
-- [Mongoo](https://maissack.github.io/mongoo): Complete redesign of the website of the company Mongoo which manufactures customized salads
+- <a href="https://10.achakaconseils.com/?lang=en" target="_blank">Achaka Conseils</a>: Founded by Charlène KARSTEN, ACHAKA CONSEILS supports you in the field of industrial property. Complete creation of the website and the graphic charter.
+- <a href="https://maissack.github.io/homepod_mini/" target="_blank">HomePod mini</a>: Amateur copy of Apple’s HomePod mini page.
+- <a href="https://github.com/Maissack/bridgeconnect" target="_blank">BridgeConnect</a>: Microblogging social network inspired by platforms like Twitter or Mastodon, incorporating specific features that encourage mindful usage.
+- <a href="https://maissack.github.io/conquete_royaume/" target="_blank">The Conquest of Kingdoms</a>: This project aims to optimize and finalize a board game initially designed during the integration week titled "Board Game".
+- <a href="https://maissack.github.io/mongoo" target="_blank">Mongoo</a>: Complete redesign of the website of the company Mongoo which manufactures customized salads.
 
 Feel free to explore my repositories for more projects!
 
